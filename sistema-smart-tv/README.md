@@ -3,16 +3,16 @@
 Bem vindos ao sisteminha rápido para treinar métodos com um pouco de orientação a objetos
 
 # Esse projetinho pode fazer:
-- Apresentar o status da TV: Ligada ou Desligada
-- Apresentar o volume atual da TV
-- Apresentar o canal atual da TV
-- Método de ligar TV
-- Método de desligar TV
-- Método de aumentar volume
-- Método de diminuir volume
-- Método de aumentar canal
-- Método de diminuir canal
-- Método de escolher qualquer canal passando um parâmetro
+[x] Apresentar o status da TV: Ligada ou Desligada
+[x] Apresentar o volume atual da TV
+[x] Apresentar o canal atual da TV
+[x] Método de ligar TV
+[x] Método de desligar TV
+[x] Método de aumentar volume
+[x] Método de diminuir volume
+[x] Método de aumentar canal
+[x] Método de diminuir canal
+[x] Método de escolher qualquer canal passando um parâmetro
 
 ## Estrutora da pasta:
 
