@@ -1,8 +1,20 @@
-## Getting Started
+## Sistema SmartTv
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Bem vindos ao sisteminha rápido para treinar métodos com um pouco de orientação a objetos
 
-## Folder Structure
+# Esse projetinho pode fazer:
+- Apresentar o status da TV: Ligada ou Desligada
+- Apresentar o volume atual da TV
+- Apresentar o canal atual da TV
+- Método de ligar TV
+- Método de desligar TV
+- Método de aumentar volume
+- Método de diminuir volume
+- Método de aumentar canal
+- Método de diminuir canal
+- Método de escolher qualquer canal passando um parâmetro
+
+## Estrutora da pasta:
 
 The workspace contains two folders by default, where:
 
